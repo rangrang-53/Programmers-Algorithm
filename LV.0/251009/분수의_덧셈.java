@@ -13,7 +13,7 @@ class Solution {
         int resultDenom = commonDenom / gcd;
         int resultNumer = numerSum / gcd;
 
-        return new int[] {resultDenom, resultNumer};
+        return new int[] {resultNumer, resultDenom};
     }
 
     // 최대공약수 계산 함수
