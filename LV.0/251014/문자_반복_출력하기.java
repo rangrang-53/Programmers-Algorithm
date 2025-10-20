@@ -1,5 +1,3 @@
-package com.example.demo;
-
 class Solution {
     public String solution(String my_string, int n) {
         String result = "";
